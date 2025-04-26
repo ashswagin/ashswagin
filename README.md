@@ -1,8 +1,8 @@
 
 <p align="center">
-<img src=https://64.media.tumblr.com/eb83205b49dcacdd767cdeac3feca51c/7a5e8cfdb33ac5cc-3a/s1280x1920/e09e2a2a59603c6dc15533af3909218373ef4275.pnj
+<img src=https://media1.tenor.com/m/kFF3oLlDx8QAAAAd/swagdoons-redash.gif
 
-  ![](https://komarev.com/ghpvc/?username=ashswagin&color=b4cbdb)  
+  ![](https://komarev.com/ghpvc/?username=ashswagin&color=000000)  
  </p>
 <p align="center">
 
