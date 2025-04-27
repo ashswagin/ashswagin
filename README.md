@@ -1,8 +1,8 @@
 
 <p align="center">
-<img src=https://media1.tenor.com/m/8MuTbBhuyWoAAAAC/manepear-lifesteal-smp.gif
-
-  ![](https://komarev.com/ghpvc/?username=ashswagin&color=F08A01)  
+<img src=https://idkhonesltyu.carrd.co/assets/images/image07.jpg?v=8b35f9a8
+  
+  ![](https://komarev.com/ghpvc/?username=ashswagin&color=000000)  
  </p>
 <p align="center">
 
