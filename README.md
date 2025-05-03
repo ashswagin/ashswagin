@@ -1,11 +1,13 @@
 
 <p align="center">
-<img src=https://64.media.tumblr.com/c5cb6ebca3dbd07c37c8c4db4fb5c6b1/6e21bcb00c1beb25-4d/s2048x3072/8e4b19953223ebb089d7fc39616f5cad1d1c9955.gifv
+<img src=https://64.media.tumblr.com/3b49c7bf6d360d4415524e92525c6f30/ba5f51a67e35fb35-35/s500x750/bac40d4d5d3c88c2b0c1d510f5d3904290182c91.pnj
   
-   ![](https://komarev.com/ghpvc/?username=ashswagin&color=ea8fbe)  
- 
+   ![](https://komarev.com/ghpvc/?username=ashswagin&color=ea8fbe) 
+   
+   
  </p>
 <p align="center">
+<img 
 
   
 
