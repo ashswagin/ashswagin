@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src=https://idkhonesltyu.carrd.co/assets/images/image07.png?v=d217539d
+<img src=https://files.catbox.moe/5i3hsw.png
   
    ![](https://komarev.com/ghpvc/?username=ashswagin&color=959FC3) 
    
