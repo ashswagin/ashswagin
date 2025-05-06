@@ -1,16 +1,16 @@
 <sub>
 
-<h6 align="center"> " Thank you for being the victim of my shallow emotions. "</h6>
+<h6 align="center"> " Kyoya, I just had an incredible idea! Let's form a club! "</h6>
 
 
 <p align="center">
-<img src=https://everysillyday.carrd.co/assets/images/image07.png?v=c1107439
+<img src=https://files.catbox.moe/zdkwmz.png
 
 <sub>
   
 <div align="center">
   
- ![](https://komarev.com/ghpvc/?username=ashswagin&color=c98bcf) <br />
+ ![](https://komarev.com/ghpvc/?username=ashswagin&color=909dca) <br />
    
 
 
