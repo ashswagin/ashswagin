@@ -1,16 +1,14 @@
 <sub>
 
-<h6 align="center"> " Kyoya, I just had an incredible idea! Let's form a club! "</h6>
-
 
 <p align="center">
-<img src=https://files.catbox.moe/zdkwmz.png
+<img src=https://64.media.tumblr.com/d3a025992bda70ffb60fc385d5944c66/74574b0140e9593f-a4/s400x600/17f3acee958ffeae25615ec5e6aa3663c084b8d4.pnj
 
 <sub>
   
 <div align="center">
   
- ![](https://komarev.com/ghpvc/?username=ashswagin&color=909dca) <br />
+ ![](https://komarev.com/ghpvc/?username=ashswagin&color=fcefca) <br />
    
 
 
