@@ -2,13 +2,13 @@
 
 
 <p align="center">
-<img src=https://everysillyday.carrd.co/assets/images/image05.png?v=6e7bf81d
+<img src=https://media1.tenor.com/m/RxekxL3m30oAAAAC/solarballs.gif
 
 <sub>
   
 <div align="center">
   
- ![](https://komarev.com/ghpvc/?username=ashswagin&color=b5c5c3) <br />
+ ![](https://komarev.com/ghpvc/?username=ashswagin&color=C6FDFF) <br />
    
 
 
