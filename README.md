@@ -2,13 +2,13 @@
 
 
 <p align="center">
-<img src=https://everysillyday.carrd.co/assets/images/image05.png?v=76441274
+<img src=https://media1.tenor.com/m/SsGwoL83TpAAAAAC/hetalia-allied-forces.gif
 
 <sub>
   
 <div align="center">
   
- ![](https://komarev.com/ghpvc/?username=ashswagin&color=F2ED85) <br />
+ ![](https://komarev.com/ghpvc/?username=ashswagin&color=696969) <br />
    
 
 
