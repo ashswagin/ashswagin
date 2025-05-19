@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src=https://media1.tenor.com/m/SsGwoL83TpAAAAAC/hetalia-allied-forces.gif
+<img src=https://media1.tenor.com/m/_Vu3n11CI_YAAAAd/hetalia-lithuania-hetalia-poland.gif
 
 <sub>
   
