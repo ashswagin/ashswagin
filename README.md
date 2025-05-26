@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src=https://static.wikia.nocookie.net/mimic/images/5/5b/Isamu_Uchiumi_Background.png/revision/latest?cb=20220407124708
+<img src=https://static.wikia.nocookie.net/mimic/images/2/27/Senzai3.jpeg/revision/latest?cb=20240115193525
 
 <sub>
   
