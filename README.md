@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src=https://static.wikia.nocookie.net/mimic/images/2/27/Senzai3.jpeg/revision/latest?cb=20240115193525
+<img src=https://idkhonesltyu.carrd.co/assets/images/image09.jpg?v=cb2855da
 
 <sub>
   
