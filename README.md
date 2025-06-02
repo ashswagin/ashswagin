@@ -2,13 +2,13 @@
 
 
 <p align="center">
-<img src=https://idkhonesltyu.carrd.co/assets/images/image09.png?v=1bc1b288
+<img src=https://idkhonesltyu.carrd.co/assets/images/image09.png?v=6d7faae7
 
 <sub>
   
 <div align="center">
   
- ![](https://komarev.com/ghpvc/?username=ashswagin&color=FAAE4D) <br />
+ ![](https://komarev.com/ghpvc/?username=ashswagin&color=B356E9) <br />
    
 
 
